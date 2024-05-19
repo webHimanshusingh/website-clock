@@ -18,3 +18,4 @@ updateClock retrieves the current time, formats the hours, minutes, and seconds 
 setInterval (updateClock, 1000) calls updateClock every second to keep the clock updated.<br>
 updateClock() is called once initially to display the time immediately upon loading the page.<br>
 By copying these code snippets into their respective files, you can create a fully functional digital clock. Open index.html in a web browser to see the clock in action.<br>
+![Screenshot 2024-05-19 154104](https://github.com/webHimanshusingh/website-clock/assets/170223793/f9ce2bdc-8ac9-4efb-b4c9-aa62975effc6)
