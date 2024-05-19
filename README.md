@@ -3,6 +3,7 @@
 LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
 GitHub- https://github.com/webHimanshusingh 
 
+<h1>Join us</h1>
 
 1 HTML:<br>
 The HTML file (index.html) sets up the basic structure of the webpage.<br>
